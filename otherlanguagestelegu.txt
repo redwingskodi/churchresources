@@ -1,0 +1,35 @@
+
+<item>
+<title>[COLORlime][B]-----Telugu Bible Studies-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>https://video-wvbs-org-6g5ddzplb.netdna-ssl.com/wvbs-structure/uploads/Telugu-What-Must-I-Do-To-Be-Saved-500x281.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Truth About Heaven(Telegu[/COLOR]</title>
+<utube>SIPHf1kXVsM</utube>
+<thumbnail>https://i.ytimg.com/vi/SIPHf1kXVsM/maxresdefault.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Truth About Hell(Telegu[/COLOR]</title>
+<utube>nXpbnb-Q6G4</utube>
+<thumbnail>https://i.ytimg.com/vi/nXpbnb-Q6G4/maxresdefault.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Where Do We Go When We Die?(Telegu[/COLOR]</title>
+<utube>ftXOPKxtmGI</utube>
+<thumbnail>https://i.ytimg.com/vi/ftXOPKxtmGI/maxresdefault.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]What Must I Do To Be Saved?(Telegu[/COLOR]</title>
+<utube>tTlrO5MJzoc</utube>
+<thumbnail>https://video-wvbs-org-6g5ddzplb.netdna-ssl.com/wvbs-structure/uploads/Telugu-What-Must-I-Do-To-Be-Saved-500x281.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>

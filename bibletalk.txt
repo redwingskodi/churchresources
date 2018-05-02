@@ -1,0 +1,860 @@
+<item>
+<title>[COLORlime][B]-----Episodes of Bible Talk-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>https://s1.postimg.org/3vznxb3ktr/My-_Image.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT561 Some Believed[/COLOR]</title>
+<link>https://vimeo.com/259092915</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT560 The Mind Of Christ[/COLOR]</title>
+<link>https://vimeo.com/259097636</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT559 Keepsakes For Righteous Living[/COLOR]</title>
+<link>https://vimeo.com/2580094978</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT558 If I Left The Church[/COLOR]</title>
+<link>https://vimeo.com/256884846</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT556 Can A Christian Fall From Grace[/COLOR]</title>
+<link>https://vimeo.com/254784497</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT555 Acceptable Worship[/COLOR]</title>
+<link>https://vimeo.com/252629963</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT554 Why Do I Need The Church[/COLOR]</title>
+<link>https://vimeo.com/252635259</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT553 The Merciful Judge[/COLOR]</title>
+<link>https://vimeo.com/252639335</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT551 Amazing Grace[/COLOR]</title>
+<link>https://vimeo.com/248252668</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT550 Can We Trust Our Bible[/COLOR]</title>
+<link>https://vimeo.com/246204696</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT549 Building Pillars Of The Home[/COLOR]</title>
+<link>https://vimeo.com/241990128</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT548 The Armor Of God[/COLOR]</title>
+<link>https://vimeo.com/240921398</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT547 The Church[/COLOR]</title>
+<link>https://vimeo.com/230865993</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT546 The Precious Blood of Christ[/COLOR]</title>
+<link>https://vimeo.com/230869621</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT545 Are You Ready For Eternity [/COLOR]</title>
+<link>https://vimeo.com/228154757</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT544 The Love Chapter[/COLOR]</title>
+<link>https://vimeo.com/227190652</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT543 Where Will You Spend Eternity[/COLOR]</title>
+<link>https://vimeo.com/227194379</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 542 A Philippian Conversion[/COLOR]</title>
+<link>https://vimeo.com/215935073</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 541 Sayings from the Cross[/COLOR]</title>
+<link>https://vimeo.com/215939958</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 540 Faithful unto Death[/COLOR]</title>
+<link>https://vimeo.com/211776391</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 539 Social Drinking[/COLOR]</title>
+<link>https://vimeo.com/211779965</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 538 Is Your Heart Troubled[/COLOR]</title>
+<link>https://vimeo.com/209634808</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 537 The Greatest Book[/COLOR]</title>
+<link>https://vimeo.com/209641616</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 536 God Forbid[/COLOR]</title>
+<link>https://vimeo.com/209648736</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 535 Give Me This Mountain[/COLOR]</title>
+<link>https://vimeo.com/209654074</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 534 The Church God Designed[/COLOR]</title>
+<link>https://vimeo.com/203224759</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 533 The Church God Designed[/COLOR]</title>
+<link>https://vimeo.com/203228569</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 532 The Church God Designed[/COLOR]</title>
+<link>https://vimeo.com/203232027</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 531 The Church God Designed[/COLOR]</title>
+<link>https://vimeo.com/203235781</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 530 The Church God Designed[/COLOR]</title>
+<link>https://vimeo.com/202239313</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 529 The Church God Designed[/COLOR]</title>
+<link>https://vimeo.com/202247854</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 528 The Church God Designed[/COLOR]</title>
+<link>https://vimeo.com/202253579</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 527 The Church God Designed[/COLOR]</title>
+<link>https://vimeo.com/199096916</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 526 Biblical Faith[/COLOR]</title>
+<link>https://vimeo.com/199100696</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 525 Comfort in Hardships[/COLOR]</title>
+<link>https://vimeo.com/184792602</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 524 The Truth About the Church of Christ[/COLOR]</title>
+<link>https://vimeo.com/184792603</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 523 What About Modest Apparel[/COLOR]</title>
+<link>https://vimeo.com/179271451</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 522 What About Miracles[/COLOR]</title>
+<link>https://vimeo.com/179271452</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 521 Where Do We Go When We Die[/COLOR]</title>
+<link>https://vimeo.com/172831471</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 520 What Does it Mean to be Saved[/COLOR]</title>
+<link>https://vimeo.com/199100696</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT 519 What are the Directions[/COLOR]</title>
+<link>https://vimeo.com/172831473</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT518 The Blessings of Justification[/COLOR]</title>
+<link>https://vimeo.com/159296587</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT517 What is the Age of Accountability?[/COLOR]</title>
+<link>https://vimeo.com/159296590</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT516 Directions to Heaven[/COLOR]</title>
+<link>https://vimeo.com/159296588</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT515 Can We Understand the Bible Alike?[/COLOR]</title>
+<link>https://vimeo.com/158202129</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT514 What It Means to Remain Faithful[/COLOR]</title>
+<link>https://vimeo.com/158100229</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT513 The Sacrifice of Christ[/COLOR]</title>
+<link>https://vimeo.com/151255596</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT512 Discouragement[/COLOR]</title>
+<link>https://vimeo.com/151255584</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT511 Evidence?[/COLOR]</title>
+<link>https://vimeo.com/151255576</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT510 Faith & Works[/COLOR]</title>
+<link>https://vimeo.com/151255559</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT509 Why Are There So Many Churches[/COLOR]</title>
+<link>https://vimeo.com/147742588</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT508 Negativity[/COLOR]</title>
+<link>https://vimeo.com/142410828</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT507 Forgiveness[/COLOR]</title>
+<link>https://vimeo.com/139462410</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT506 Why I Am a Member of the Church of Christ[/COLOR]</title>
+<link>https://vimeo.com/139462411</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT505 The New Testament Church[/COLOR]</title>
+<link>https://vimeo.com/135465703</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT504 Is Homosexuality Really a Sin?[/COLOR]</title>
+<link>https://vimeo.com/135465702</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT503 Faith, Grace, & Gods Law[/COLOR]</title>
+<link>https://vimeo.com/132971941</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT502 Are You Stressed?[/COLOR]</title>
+<link>https://vimeo.com/132971942</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT501 Cheap Religion[/COLOR]</title>
+<link>https://vimeo.com/130234619</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT500 Born in a Barn[/COLOR]</title>
+<link>https://vimeo.com/130234617</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT499 Faith[/COLOR]</title>
+<link>https://vimeo.com/127777161</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT498 Faithful or Sinful[/COLOR]</title>
+<link>https://vimeo.com/126753999</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT497 The Sacrifice of Christ[/COLOR]</title>
+<link>https://vimeo.com/127875682</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT496 Worship[/COLOR]</title>
+<link>https://vimeo.com/125095126</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT495 Seven Stages of Life[/COLOR]</title>
+<link>https://vimeo.com/122320382</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT494 Sin[/COLOR]</title>
+<link>https://vimeo.com/122320381</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT493 In God We Trust - or Not[/COLOR]</title>
+<link>https://vimeo.com/122320378</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT492 Gods Grace and Our Faith[/COLOR]</title>
+<link>https://vimeo.com/122320377</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT491 Strangest Things Heard about CoC[/COLOR]</title>
+<link>https://vimeo.com/122325845</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT490 Just A Question[/COLOR]</title>
+<link>https://vimeo.com/117835539</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT489 Why Am I A Memeber Of The Church Of Christ?[/COLOR]</title>
+<link>https://vimeo.com/117835538</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT488 Do You Need Heart Surgery?[/COLOR]</title>
+<link>https://vimeo.com/116068930</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT487 Boot Camp For Christian Soldiers[/COLOR]</title>
+<link>https://vimeo.com/116068928</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT486 Is Salvation For The Jew[/COLOR]</title>
+<link>https://vimeo.com/166854049</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT485 From Servant To Son[/COLOR]</title>
+<link>https://vimeo.com/166859188</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT484 Has Man Outgrown the Gospel?[/COLOR]</title>
+<link>https://vimeo.com/166854052</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT483 Why Caleb Lived On A Mountain[/COLOR]</title>
+<link>https://vimeo.com/166854047</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT482 Serve The Lord[/COLOR]</title>
+<link>https://vimeo.com/115132959</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT481 Pride[/COLOR]</title>
+<link>https://vimeo.com/165383842</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT480 Excellence[/COLOR]</title>
+<link>https://vimeo.com/162277376</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT479 Advice For Grieving[/COLOR]</title>
+<link>https://vimeo.com/111589000</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT478 Why Do People Quit The Church[/COLOR]</title>
+<link>https://vimeo.com/111588998</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT477 The Fall Of Man[/COLOR]</title>
+<link>https://vimeo.com/111588996</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT476 Four Things Christians Should Never Do[/COLOR]</title>
+<link>https://vimeo.com/111588993</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT475 How To Love Our Spouse[/COLOR]</title>
+<link>https://vimeo.com/111588992</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT474-The Work Of A Preacher[/COLOR]</title>
+<link>https://vimeo.com/108721134</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT473 Where Did Christ Put His Blood?[/COLOR]</title>
+<link>https://vimeo.com/108024079</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT472 Building A House of Prayer[/COLOR]</title>
+<link>https://vimeo.com/108024078</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt471 The Elusive City Of Gold[/COLOR]</title>
+<link>https://vimeo.com/105256252</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt470 Shall We Blame God?[/COLOR]</title>
+<link>https://vimeo.com/105256251</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt469 But I Dont Accept the Bible[/COLOR]</title>
+<link>https://vimeo.com/105256250</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt468 Marys Little Lamb No More[/COLOR]</title>
+<link>https://vimeo.com/104343684</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt467 Do I Really Matter? [/COLOR]</title>
+<link>https://vimeo.com/104343683</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt466 Being Like the Prodigal[/COLOR]</title>
+<link>https://vimeo.com/104141526</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt465 What If I Dont Preach On Hell?[/COLOR]</title>
+<link>https://vimeo.com/100609887</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt464 Job and Christians Today[/COLOR]</title>
+<link>https://vimeo.com/100609888</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT463 The Three Test of Abrahams Faith[/COLOR]</title>
+<link>https://vimeo.com/100609886</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT462 What Can I Do When Tragedy Strikes?[/COLOR]</title>
+<link>https://vimeo.com/100609884</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT461 What Can I Do When My Children Do Not Obey The Gospel or Become Unfaithful?[/COLOR]</title>
+<link>https://vimeo.com/99438643</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT460 What Can I Do When A Loved one Dies?[/COLOR]</title>
+<link>https://vimeo.com/97686154</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT459 What Can I Do When I Am Tempted To Return To My Sinful Ways?[/COLOR]</title>
+<link>https://vimeo.com/97686155</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT458 What Can I Do When I Dont Want To Obey God?[/COLOR]</title>
+<link>https://vimeo.com/95818077</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT457 What Can I Do When My Faith Is Weak and Faltering?[/COLOR]</title>
+<link>https://vimeo.com/95818075</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT456 Our Purpose - Sharing Jesus?[/COLOR]</title>
+<link>https://vimeo.com/95818076</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt455 What Must I Do To Be Saved?[/COLOR]</title>
+<link>https://vimeo.com/92688971</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt454 Evil Pain and Suffering[/COLOR]</title>
+<link>https://vimeo.com/94714723</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt453 Noah By The Numbers[/COLOR]</title>
+<link>https://vimeo.com/94714724</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]Bt452 I Am looking For A Church Thats Not So Negative[/COLOR]</title>
+<link>https://vimeo.com/94714722</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT451 The Five Sacrifices of Calvary[/COLOR]</title>
+<link>https://vimeo.com/90182329</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT450 Compassion[/COLOR]</title>
+<link>https://vimeo.com/90182328</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT449 A Hopeless, A Helpless, A Hapless Man[/COLOR]</title>
+<link>https://vimeo.com/90182327</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT448 When Jesus Arrived Late[/COLOR]</title>
+<link>https://vimeo.com/89812256</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT447 The Blessing of Justification[/COLOR]</title>
+<link>https://vimeo.com/89812255</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT446 The Best Giver in the Church[/COLOR]</title>
+<link>https://vimeo.com/166854046</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT445 What does the Church have to Offer Me?[/COLOR]</title>
+<link>https://vimeo.com/89754165</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT444 Christs Busiest Week[/COLOR]</title>
+<link>https://vimeo.com/165383843</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT443 A Timeline Of Gods Eternal Kingdom.[/COLOR]</title>
+<link>https://vimeo.com/89446158</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT442 What Is The Age Of Accountability[/COLOR]</title>
+<link>https://vimeo.com/89395897</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT441 Why Are They So Many Churches?[/COLOR]</title>
+<link>https://vimeo.com/88496937</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR] BT440 Do We Still Have Miracles?[/COLOR]</title>
+<link>https://vimeo.com/86216018</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT439 Why Do Bad Things Happen?[/COLOR]</title>
+<link>https://vimeo.com/86277127</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR]BT438 Directions to Heaven[/COLOR]</title>
+<link>https://vimeo.com/88541410</link>
+<thumbnail>https://s30.postimg.org/6npiyh1b5/kaleb.png</thumbnail>
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart>
+</item>

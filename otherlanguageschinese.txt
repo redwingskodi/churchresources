@@ -1,0 +1,117 @@
+<item>
+<title>[COLORlime][B]-----Chinese Bible Studies-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>https://s1.postimg.org/4x9v1i6ojz/hqdefault.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Where Do We Go When We Die? (Chinese - Simplified)[/COLOR]</title>
+<utube>OovLo9x8Q_Y</utube>
+<thumbnail>https://video-wvbs-org-6g5ddzplb.netdna-ssl.com/wvbs-structure/uploads/Chinese-Where-Do-We-Go-When-We-Die-Program-500x281.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Where Do We Go When We Die? (Chinese - Traditional)[/COLOR]</title>
+<utube>5k77w0iOZ9Y</utube>
+<thumbnail>https://video-wvbs-org-6g5ddzplb.netdna-ssl.com/wvbs-structure/uploads/Chinese-Where-Do-We-Go-When-We-Die-Program-500x281.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]What Must I Do To Go To Heaven? (Chinese - Simplified)[/COLOR]</title>
+<utube>Or7VlGncKyQ</utube>
+<thumbnail>https://video-wvbs-org-6g5ddzplb.netdna-ssl.com/wvbs-structure/uploads/Chinese-What-Must-I-Do-To-Go-To-Heaven-Program-500x281.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]What Must I Do To Go To Heaven? (Chinese - Traditional)[/COLOR]</title>
+<utube>relZ09Wmw4Q</utube>
+<thumbnail>https://video-wvbs-org-6g5ddzplb.netdna-ssl.com/wvbs-structure/uploads/Chinese-What-Must-I-Do-To-Go-To-Heaven-Program-500x281.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Truth About Heaven (Chinese - Simplified)[/COLOR]</title>
+<utube>NElyZ3WRyiY</utube>
+<thumbnail>https://video.wvbs.org/wvbs-structure/uploads/Chinese-The-Truth-About-Heaven.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Truth About Heaven (Chinese - Traditiional)[/COLOR]</title>
+<utube>Dna74zZ4l_c</utube>
+<thumbnail>https://video.wvbs.org/wvbs-structure/uploads/Chinese-The-Truth-About-Heaven.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Truth About Hell (Chinese - Simplified)[/COLOR]</title>
+<utube>b1trTzed-6E</utube>
+<thumbnail>https://video.wvbs.org/wvbs-structure/uploads/Chinese-The-Truth-About-Hell-Simplified.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Truth About Hell (Chinese - Traditional)[/COLOR]</title>
+<utube>S7AeQIhrwf4</utube>
+<thumbnail>https://video.wvbs.org/wvbs-structure/uploads/Chinese-The-Truth-About-Hell-Simplified.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Why Are There So Many Churches?(Chinese - Simplified)[/COLOR]</title>
+<utube>R0dx6t6sTuo</utube>
+<thumbnail>https://video.wvbs.org/wvbs-structure/uploads/Chinese-Why-Are-There-So-Many-Churches-Simplified.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Why Do We Believe Jesus Is The Son Of God (1)?(Chinese - Simplified)[/COLOR]</title>
+<utube>z4-42F5D5rQ</utube>
+<thumbnail>https://video.wvbs.org/wvbs-structure/uploads/Chinese-Why-We-Believe-Jesus-is-the-Son-of-God-Lesson-1.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Why Do We Believe Jesus Is The Son Of God (2)?(Chinese - Simplified)[/COLOR]</title>
+<utube>_--o0lIArPQ</utube>
+<thumbnail>https://video.wvbs.org/wvbs-structure/uploads/Chinese-Why-We-Believe-Jesus-is-the-Son-of-God-Lesson-2.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Why Do We Believe Jesus Is The Son Of God (3)?(Chinese - Simplified)[/COLOR]</title>
+<utube>tHBxtYcRgE0</utube>
+<thumbnail>https://video.wvbs.org/wvbs-structure/uploads/Chinese-Why-We-Believe-Jesus-is-the-Son-of-God-Lesson-3.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Christian, Sabbath Day and Ten Commandments(Chinese - Traditional)[/COLOR]</title>
+<utube>O7nHKidRNBM</utube>
+<thumbnail>https://s8.postimg.org/nxio1tv9h/chinese.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR white]The Christian, Sabbath Day and Ten Commandments(Chinese - Simplified)[/COLOR]</title>
+<utube>BNWVr0lDT7E</utube>
+<thumbnail>https://s8.postimg.org/nxio1tv9h/chinese.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+

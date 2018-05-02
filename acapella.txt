@@ -1,0 +1,35 @@
+<item>
+<title>[COLORlime][B]-----A Capella Singing-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>https://s1.postimg.org/2k9mxhdwen/acapella.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Sesamonte Acapella List[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL4LS84V7W-z-M1qMOQIh3q2UvTx-M1n0p/</jsonrpc>
+<thumbnail>https://s1.postimg.org/2k9mxhdwen/acapella.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Church of Christ Hymns (Auto Playlist 1)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL8MJ32UO-Lfog0Tt_dyUezBnAnz72SBAW</link>
+<thumbnail>https://s1.postimg.org/2k9mxhdwen/acapella.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Church of Christ (Auto Playlist 2)[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL7wXlyPJRDGBZ9Plblv1RA1dc5kaulkdV</link>
+<thumbnail>https://s1.postimg.org/2k9mxhdwen/acapella.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Traditional 4 part Harmony (Auto Playlist) [/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL1jpah7BtiMc4EzLqs_ZPgJpUsuBSzXBf</link>
+<thumbnail>https://s1.postimg.org/2k9mxhdwen/acapella.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>

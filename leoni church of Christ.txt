@@ -1,0 +1,460 @@
+﻿<item> 
+<title>[COLORlime][B]-----Leoni church of Christ-----[/B][/COLOR]</title> 
+<link> </link> 
+<thumbnail>https://s1.postimg.org/3vznxb3ktr/My-_Image.png</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Holy Spirit & His Work â€“ Randy Kea[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/HolySpiritWork.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Certainty in a Day of Doubt â€“ Randy Kea[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/CertaintyDayDoubt.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Way of Holiness â€“ Randy Kea[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/TheWayHoliness.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Paul Preached in Corinth â€“ Randy Kea[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/PaulPreachedCorinth.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Last Things â€“Randy Kea[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/LastThings.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Bible Church â€“ Randy Kea[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/BibleChurch.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Church Membership & Being Saved â€“ John Shannon[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/ChurchMembershipSaved.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Pope Versus the Christ â€“ John Sahnnon[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/PopeVsChurch.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Dour Best â€“ John Shannon[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/DoYourBest.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]God Wants All Men To Be Saved â€“ John Shannon[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/GodWantsAllMenSaved.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Give Thanks â€“ James Boyd[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/GiveThanks-JBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Salvation By The Blood Of Christ[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/SalvationBlood-JBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Rich Young Ruler â€“ Garland Robinson[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/RichYoungRuler96.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Calvinism: Perseverance of the Saints â€“ Garland Robinson[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/CalvinismPerseveranceSaints.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Calvinism: Limited Atonement â€“ Garland Robinson[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/CalvinismLimitedAttonement.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Calvinism: Irresistible Grace[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/CalvinismIrrestibleGrace.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Calvinism: Total Heredity Depravity[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/CalvinismTotalDepravity.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Calvinism: Unconditional Election[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/CalvinismUnconditionalElection.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Deep-Seated Monster(our Feelings) â€“ Victor Eskew[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/Eskew1-OurFeelings.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Just Say Thisâ€¦ - Victor Eskew[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/Eskew2-JustSayThis.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]We Have Not Left God Out â€“ Victor Eskew[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/Eskew3-NotLeftGodOut.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Post-Modern Thinking â€“ Victor Eskew[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/Eskew4-PostModern.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Power of One - Victor Eskey[/COLOR]</title> 
+<link>http://www.leonichurchofchrist.com/video/Eskew5-PowerOfOne.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Overview of Premillennialism â€“ Ronnie Whittemore[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/OverviewPremillennialism128.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Consequences of Premillennialism â€“ Ronnie Whittemore[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/ConsequencesPremillennialism128.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Designations of the Kingdom â€“ Ronnie Whittemore[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/DesignationsKingdom128.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Completed Work of Jesus â€“ Ronnie Whittemore[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/CompletedWorkJesus128.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Everlasting Kingdom â€“ Ronnie Whittemore[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/EverlastingKingdom128.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Lessons From The Stars â€“ Bill Boyd[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/LessonsFromStars_BBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Bible View Of Alcohol â€“ Bryan Pitts[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/BibleViewAlcohol_BPitts.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Rewards for Serving God: Spiritual â€“ Garland Robinson[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/RewardsServingGodSpiritual.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Rewards for Serving God: Physical[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/RewardsServingGodPhysical.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Rich Man & Lazarus â€“ Garland Robinson[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/RichManLazarus.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Atheismâ€™s Classifications â€“ Alan Adams[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/AtheismsClassificaitons.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Our God He Is Alive â€“ Sidney White[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/OurGodIsAlive.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Atheismâ€™s Contradiction â€“ Alan Adams[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/AtheismsContradictions.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Atheismâ€™s Creator â€“ Alan Adams[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/AtheismsCreator.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Atheismâ€™s Cure - Alan Adams[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/video/AtheismsCure.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Barriers to Heaven â€“ Garland Robinson[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/Video/BarriersToHeaven.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Way of Cain â€“ Garland Robinson[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/Video/TheWayOfCain.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Are You Pleasing God â€“ Garland Robinson[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/Video/PleasingGod.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Things in Heaven We Enjoy Now â€“ Garland Robinson[/COLOR]</title> 
+<link>http://leonichurchofchrist.com/Video/ThingsInHeavenWeEnjoyNow.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Universal Need of Salvation(1)-J. Boyd[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/TheUniversalNeedOfSalvation1-JBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Universal Need of Salvation(2)-J. Boyd [/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/TheUniversalNeedOfSalvation2-JBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Forgiveness â€“ G. Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/Forgiveness.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Adorning The Doctrine of God â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/Video/AdorningTheDoctrineOfGod.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Must One Be a Member of the Church of Christ To Be Saved â€“ J.Boyd[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/MustBeMemberCCSaved-JBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Christ Jesus His Mission â€“ Jim Boyd[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/ChristJesusMission-JBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]What Must I Do To Be Saved â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/WhatMustIDoToBeSaved.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Sin of Sodom:Homosexuality â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/Homosexuality.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Real Enemy â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/OurRealEnemy.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]What it Means to be in Christ â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/WhatItMeansToBeINChrist.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Filling the Void in Ones Life â€“ Brian Pitts[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/FillingTheVoid.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Water Baptism â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/Baptism.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Every Idle Word â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/EveryIdleWord.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Predestination â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/Predestination.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Did Alexander Campbell Start the Church of Christ â€“ Garland Robinson[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/Video/DidCampbellStartTheChurch.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Great Statement of Jesus â€“ Jim Boyd[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/GreatStatementsJesus-JBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]What Makes Jesus Different â€“ Jim Boyd[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/WhatMakesJesusDifferent-JBoyd.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Exhortation â€“ Stanley Clendenon[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/ExhortationSC.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Transformed Life â€“ John Grubb[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/TheTransformedLife-JGrubb.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]Setbacks in Life â€“ John Grubb[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/SetbacksInLife-JGrubb.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Example of Moses in Dealing with Lifes Problems[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/ExampleMosesDealingWithProblems-JGrubb.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+ 
+<item> 
+<title>[COLORwhite]The Cause of Lifes Problems â€“ John Grubb[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/TheCauseOfLifesProblems-JGrubb.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> 
+</item> 
+<item> 
+<title>[COLORwhite]Ways to Deal With Lifes Problems â€“ John Grubb[/COLOR]</title> 
+<link> http://leonichurchofchrist.com/video/DealingWithLifesProblems-JGrubb.mp4</link> 
+<thumbnail>https://s7.postimg.org/m9e9s43vf/leoni.bldg.current.jpg</thumbnail> 
+<fanart>https://s1.postimg.org/1l6rv38idr/elkins_memorial.jpg</fanart> </item>
+

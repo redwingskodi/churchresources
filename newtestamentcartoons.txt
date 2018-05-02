@@ -1,0 +1,63 @@
+<item>
+<title>[COLORlime][B]-----New Testament Cartoons-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Cartoons Based on KJV Text[/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLsTf5kCgvoxy2rfe6XHkg0eSp7ezO-f6m/</jsonrpc>
+<thumbnail>https://s1.postimg.org/6v8tgscfdr/kjv.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Jesus' Agony in the Garden[/COLOR]</title>
+<link>https://ia600606.us.archive.org/34/items/KidsBibleStoriesVideos/1-Agony%20in%20the%20Garden.mp4</link>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Miracles of Old & New Testament[/COLOR]</title>
+<utube>Xz7lOuXuStU</utube>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Life of Jesus Christ (Animated Movie)[/COLOR]</title>
+<utube>O5KETYJJnIE</utube>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Messiah Comes[/COLOR]</title>
+<utube>S8I7iWxyjrs</utube>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Miracles of Jesus[/COLOR]</title>
+<utube>e1y4CufXIac</utube>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]He is Risen[/COLOR]</title>
+<utube>zuRlvZdgAdA</utube>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Righteous Judge[/COLOR]</title>
+<utube>UZEktlHczYM</utube>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>

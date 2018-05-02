@@ -1,0 +1,163 @@
+<item>
+<title>[COLORlime][B]-----Children's Cartoons-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>http://www.vernacularmedia.org/wp-content/uploads/2016/05/Ramp6.png</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]These are the Most Accurate Cartoons We Can Find, but Verify with your Bible.[/COLOR]</title>
+<link>ignorme</link>
+<thumbnail>https://s1.postimg.org/5h524kpwvj/godswordicon.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORblue][B]-----Creationism-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>https://s13.postimg.org/gg7ps0bt3/week-of-creation-genesis-1.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Digger Doug[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/DIGGERDOUG.txt</externallink>
+<thumbnail>https://s13.postimg.org/lqcojeqxz/diggerdoug.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+ï»¿<item>
+<title>[COLORblue][B]-----Old Testament-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>https://youthministryconversations.com/wp-content/uploads/2017/01/ymc.storiesOT.png</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Old Testament Cartoon List[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/new%20addon%20OT%20cartoons.txt</externallink>
+<thumbnail>https://youthministryconversations.com/wp-content/uploads/2017/01/ymc.storiesOT.png</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+ï»¿<item>
+<title>[COLORblue][B]-----New Testament-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]New Testament Cartoon List[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/new%20addon%20NT%20cartoons.txt</externallink>
+<thumbnail>http://www.essex1.com/people/paul/NT-header-1.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORlime][B]-----Bible Movies-----[/B][/COLOR]</title>
+<link> </link>
+<thumbnail>https://s1.postimg.org/85vp846wkv/6325389.gif</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORred]These are the Most Accurate Movies We Can Find, but Verify with your Bible.[/COLOR]</title>
+<link>ignorme</link>
+<thumbnail>https://s1.postimg.org/5h524kpwvj/godswordicon.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Gospel According To John (2004)[/COLOR]</title>
+<utube>2mgUPt2KI08</utube>
+<thumbnail>https://www.visionvideo.com/img/product/large/V98802D.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Acts of the Apostles (1994)[/COLOR]</title>
+<link>https://www.gloria.tv/video/8aAhb7wMSWpA6pRnyXu4EJVbU/hls/master.m3u8</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51eNU3LHmJL._SY445_.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Jesus of Nazareth (1977)[/COLOR]</title>
+<utube>50IiF1rTTGQ</utube>
+<thumbnail>https://pics.filmaffinity.com/jesus_of_nazareth_tv-101677941-large.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Son of God (2014)[/COLOR]</title>
+<link>http://mediaset.sdasofia.org/MEDIA%20SET/Movies/Son.of.God.2014/aqos-son.of.god.2014.brrip.xvid.avi</link>
+<thumbnail>https://momluck.com/wp-content/uploads/2014/06/91dCFSKaJ-L._SL1500_.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Greatest Heroes of the Bible (1978)[/COLOR]</title>
+<link>https://ia600201.us.archive.org/32/items/PatriarchsOfTheHolyBiblefullFilm/Patriarchs%20Of%20The%20Holy%20Bible%20%28full%20film%29.mp4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/91oX4BqZEtL._SY445_.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The Story of Ruth (1960)[/COLOR]</title>
+<link>https://www.kncb.org/wp-content/uploads/2015/04/The-Story-of-Ruth.mp4</link>
+<thumbnail>https://i.pinimg.com/736x/f8/03/02/f80302ebfff732bacc54d037141054dc--christian-movies-old-movies.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]The 10 Commandments (1956)[/COLOR]</title>
+<link>http://davfl70.org/movies/The%20Ten%20Commandments.mp4</link>
+<thumbnail>https://armyofawesomepeople.files.wordpress.com/2012/03/ten-commandments.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Moses (1995)[/COLOR]</title>
+<link>https://www.kncb.org/wp-content/uploads/2015/04/The-Holy-Bible-Exodus-Full-Movie.mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/9222591/p9222591_b_v8_ad.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]David (1997)[/COLOR]</title>
+<link>https://www.kncb.org/wp-content/uploads/2015/06/KING-DAVID-Full-Movie-Bible-1997.mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/9300815/p9300815_b_v8_ad.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR white]Jeremiah (1998)[/COLOR]</title>
+<utube>tlxOoVQAOMk</utube>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/25932/p25932_d_v8_aa.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Abraham (1994)[/COLOR]</title>
+<link>https://www.kncb.org/wp-content/uploads/2015/07/ABRAHAM.mp4</link>
+<thumbnail>https://www.visionvideo.com/img/product/large/B6892D.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Jacob (1994)[/COLOR]</title>
+<link>https://www.kncb.org/wp-content/uploads/2015/08/JACOB.mp4</link>
+<thumbnail>http://www.gstatic.com/tv/thumb/dvdboxart/16104/p16104_d_v8_aa.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORwhite]Daniel (2013)[/COLOR]</title>
+<link>https://www.kncb.org/wp-content/uploads/2015/04/Th%C3%A1nh-Kinh-C%E1%BB%B1u-%C6%AF%E1%BB%9Bc-The-Book-of-Daniel-full-HD.mp4</link>
+<thumbnail>http://pureflixstudio.com/wp-content/uploads/2015/02/daniel-web-cover.jpg</thumbnail>
+<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
+</item>
