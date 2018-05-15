@@ -2,28 +2,28 @@
 <title>[COLORwhite][B]This Addon Offers Non-Denominational Bible Teaching.[/B][/COLOR]</title>
 <link>ignorme</link>
 <thumbnail>https://yt3.ggpht.com/-XucCTe7ZhOQ/AAAAAAAAAAI/AAAAAAAAAAA/pAPO_LEPEjo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>https://github.com/redwingskodi/churchresources/raw/master/Water-Splash-Wallpapers-023.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
 
 <item>
 <title>[COLORlime][B]Overseen by the Portage church of Christ (Michigan)[/B][/COLOR]</title>
 <link>ignorme</link>
 <thumbnail>https://yt3.ggpht.com/-XucCTe7ZhOQ/AAAAAAAAAAI/AAAAAAAAAAA/pAPO_LEPEjo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>https://github.com/redwingskodi/churchresources/raw/master/Water-Splash-Wallpapers-023.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
 
 <item>
 <title>[COLORblue][B]Visit our Website: portagechurchofchrist.net[/B][/COLOR]</title>
 <link>ignorme</link>
 <thumbnail>https://yt3.ggpht.com/-XucCTe7ZhOQ/AAAAAAAAAAI/AAAAAAAAAAA/pAPO_LEPEjo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>https://github.com/redwingskodi/churchresources/raw/master/Water-Splash-Wallpapers-023.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
 
 <item>
 <title>[COLORblue][B][/B][/COLOR]</title>
 <link>ignorme</link>
 <thumbnail>https://yt3.ggpht.com/-XucCTe7ZhOQ/AAAAAAAAAAI/AAAAAAAAAAA/pAPO_LEPEjo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>https://github.com/redwingskodi/churchresources/raw/master/Water-Splash-Wallpapers-023.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
 
 <item>
@@ -31,5 +31,5 @@
 <link>ignorme</link>
 <externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/maindirectory.txt</externallink>
 <thumbnail>https://s1.postimg.org/5h524kpwvj/godswordicon.jpg</thumbnail>
-<fanart>https://github.com/redwingskodi/churchresources/raw/master/Water-Splash-Wallpapers-023.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
