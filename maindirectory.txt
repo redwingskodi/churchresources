@@ -1,7 +1,7 @@
 <item>
 <title>[COLORlime]Live Streams (TV, Sun. Worship, &  Bible Study)[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/New%20Addon%20Live%20Streams.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/live%20streams.txt</externallink>
 <thumbnail>https://s13.postimg.org/9g7p42qzb/livestreams11.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
@@ -9,7 +9,7 @@
 <item>
 <title>[COLOR white]Classic Audio Sermons[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/Gods%20Word%20audio%20sermons.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/classicaudiosermons.txt</externallink>
 <thumbnail>https://s13.postimg.org/whoa9ulhz/fav_sermons11.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
@@ -17,7 +17,7 @@
 <item>
 <title>[COLORlime]Bible Teaching Channels[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/New%20Addon%20Youtube%20Channels.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/bibleteachingchannels.txt</externallink>
 <thumbnail>https://s13.postimg.org/9g7p448zr/youtubechannels11.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
@@ -25,7 +25,7 @@
 <item>
 <title>[COLOR white]Gospel Meetings & Lectureships[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/New%20Addon%20Lecutureship%20Gospel%20Meetings.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/gospelmeetings.txt</externallink>
 <thumbnail>https://s13.postimg.org/upvbezrvb/gospel_meetings11.png</thumbnail>
 <fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
 </item>
@@ -33,7 +33,7 @@
 <item>
 <title>[COLORlime]Listen To Audio Bible (multiple languages)[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/New%20Addon%20Audio%20bible.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/audiobible.txt</externallink>
 <thumbnail>https://s13.postimg.org/whoa9x63b/audio_bible11.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
@@ -49,7 +49,7 @@
 <item>
 <title>[COLORlime]Recorded Debates[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/New%20Addon%20Debates.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/debates.txt</externallink>
 <thumbnail>https://s13.postimg.org/n9w1t99br/debates11.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
@@ -57,7 +57,7 @@
 <item>
 <title>[COLOR white]Topical Bible Studies[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/New%20Addon%20Topical%20Studies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/topicalbiblestudies.txt</externallink>
 <thumbnail>https://s13.postimg.org/oq7kau6xj/topical_studies11.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
@@ -65,7 +65,7 @@
 <item>
 <title>[COLORlime]A Cappella Singing[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/New%20Addon%20Accapella.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/acapella.txt</externallink>
 <thumbnail>https://s13.postimg.org/byte4df5z/acapella11.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg<fanart>https://s13.postimg.org/gufzbovtj/water.jpg</fanart>
 </item>
@@ -73,7 +73,7 @@
 <item>
 <title>[COLOR white]Kids Section & Movies[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/New%20Addon%20Kids.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/kidsandmovies.txt</externallink>
 <thumbnail>https://s13.postimg.org/bm1zy7rrb/kids11.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
@@ -81,7 +81,7 @@
 <item>
 <title>[COLORlime]Bible Studies in Other Languages[/COLOR]</title>
 <link>ignorme</link>
-<externallink>https://simplekore.com/wp-content/uploads/file-manager/redwings/new%20addon%20misc%20language%20dir.txt</externallink>
+<externallink>https://raw.githubusercontent.com/redwingskodi/churchresources/master/otherlanguagesmain.txt</externallink>
 <thumbnail>https://s13.postimg.org/qi0j5v8br/nonenglish1.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/redwingskodi/churchresources/master/Water-Splash-Wallpapers-023.jpg</fanart>
 </item>
