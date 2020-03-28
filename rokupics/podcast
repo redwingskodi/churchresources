@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Portage church of Christ</title>
+        <link>https://www.portagechurchofchrist.net/</link>
+        <language>en-us</language>
+        <copyright>℗ &amp; © 2020 Portage church of Christ</copyright>
+        <itunes:subtitle>Podcasts by Portage church of Christ</itunes:subtitle>
+        <itunes:author>Portage church of Christ</itunes:author>
+        <itunes:summary>The Portage church of Christ is a group of pre-denominational Christians that are striving to serve the Lord together. Our goal is to please God, and we believe that the best way to do that is to follow the pattern that was established by the churches in the first century and revealed in the New Testament.  We have no creed or doctrine except the Bible and we follow the Bible only. We strive for unity in the teaching of New Testament doctrine.  Our congregation is not part of, or subject to, any larger man-made religious organization. We are a completely autonomous congregation. We are locally governed, just as the church in the first century was.</itunes:summary>
+        <description>The Portage church of Christ is a group of pre-denominational Christians that are striving to serve the Lord together. Our goal is to please God, and we believe that the best way to do that is to follow the pattern that was established by the churches in the first century and revealed in the New Testament.  We have no creed or doctrine except the Bible and we follow the Bible only. We strive for unity in the teaching of New Testament doctrine.  Our congregation is not part of, or subject to, any larger man-made religious organization. We are a completely autonomous congregation. We are locally governed, just as the church in the first century was.</description>
+        <itunes:owner>
+            <itunes:name>Portage church of Christ</itunes:name>
+            <itunes:email>portagechurchoc@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything.jpg"/>
+        <itunes:category text="‎Religion &amp; Spirituality">
+            <itunes:category text="Christianity"/>
+        </itunes:category>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Socket Wrench Shootout</title>
+            <itunes:author>Jane Doe</itunes:author>
+            <itunes:subtitle>Comparing socket wrenches is fun!</itunes:subtitle>
+            <itunes:summary>This week we talk about metric vs. Old English socket wrenches. Which one is better? Do you really need both? Get all of your answers here.</itunes:summary>
+            <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode2.jpg"/>
+            <enclosure length="5650889" type="video/mp4" url="http://example.com/podcasts/everything/AllAboutEverythingEpisode2.mp4"/>
+            <guid>http://example.com/podcasts/archive/aae20140608.mp4</guid>
+            <pubDate>Wed, 09 Mar 2016 13:00:00 EST</pubDate>
+            <itunes:duration>04:34</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>Red,Whine, &amp; Blue</title>
+            <itunes:author>Various</itunes:author>
+            <itunes:subtitle>Red + Blue != Purple</itunes:subtitle>
+            <itunes:summary>This week we talk about surviving in a Red state if you are a Blue person. Or vice versa.</itunes:summary>
+            <itunes:image href="http://example.com/podcasts/everything/AllAboutEverything/Episode4.jpg"/>
+            <enclosure length="498537" type="audio/mpeg" url="http://example.com/podcasts/everything/AllAboutEverythingEpisode4.mp3"/>
+            <guid>http://example.com/podcasts/archive/aae20140601.mp3</guid>
+            <pubDate>Fri, 11 Mar 2016 01:15:00 +3000</pubDate>
+            <itunes:duration>03:59</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+    </channel>
+</rss>
+
